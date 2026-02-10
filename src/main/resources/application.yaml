@@ -6,7 +6,7 @@ spring:
 #    url: jdbc:mariadb://localhost:3306/cardb
 #    username: root
 #    password: root
-    url: jdbc:mariadb://hrr5mwqn9zs54rg4.chr7pe7iynqr.eu-west-1.rds.amazonaws.com
+    url: jdbc:mariadb://hrr5mwqn9zs54rg4.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/tu4a75g4r05o8dc5
     username: gbq2i9spsn7sa7vm
     password: qkmii88vwlm9r5x2
     driver-class-name: org.mariadb.jdbc.Driver
